@@ -15,7 +15,7 @@
     text-align: right;
     background: #ffffffe0;
     font-weight: bold;
-    font-family: cursive;
+    font-family: none;
     pointer-events: none;
 }
 .buttons{
