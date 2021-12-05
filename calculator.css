@@ -1,8 +1,7 @@
 .calculator{
     width: 300px;
     height: 400px;
-    margin-top: 100px;
-    margin-left: 510px;
+    float: left;
     border-radius: 20px;
     background-color: black;
 }
